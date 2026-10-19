@@ -1,0 +1,10 @@
+
+# Videos
+vids/
+
+# Virtual Environment stuff
+.venv/
+
+.env
+
+__pycache__/
